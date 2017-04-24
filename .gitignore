@@ -1,0 +1,6 @@
+_site
+_drafts
+.git
+.vscode
+.sass-cache
+.jekyll-metadata

@@ -1,0 +1,30 @@
+# Site settings
+title: Writer & Geek Show
+owner: Vishnu Padmanabhan
+author: Vishnu & Shankar
+lang: en
+subtitle: Rock 'n' Roll
+keywords: Tech, Geek, Writing, Lifestyle, Music
+# copyright:      "&#x2117; &amp; &#xA9; 2015"
+email: mail@writerandgeek.com
+description: > # this means to ignore newlines until "baseurl:"
+  A podcast on Culture, History, Science, Tech and Productivity tips.
+disclaimer: >
+  This website is a personal journal. All thoughts and opinions are my own.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://writerandgeek.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+sass:
+    style: compressed
+gems:
+  - jemoji
+  - jekyll-paginate
+
+permalink: /:title/
+future: true
+paginate: 10
