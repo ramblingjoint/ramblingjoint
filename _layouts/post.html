@@ -18,6 +18,7 @@ layout: default
     <div class="row">
         <article class="col-md-6 col-md-offset-3 single-article">
             <div class="post-body">
+                <h3>{{ page.summary }}</h3>
                 {% if page.audio %}
                 <audio controls preload="none">
                     <source src="{{ page.audio }}" type="audio/mpeg">
