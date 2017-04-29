@@ -27,13 +27,34 @@ layout: default
                                 <!-- AUDIO CONTAINER -->
                                 <div>                                    
                                     <!-- MEDIAELEMENT AUDIO ( COPY THIS ) -->
-                                    <div class="mejs-audio-wrapper mejs-wng">                        
-                                        <audio src="{{ page.audio }}" width="100%" height="48" controls="controls" preload="none"></audio>
+                                    <div class="mejs-audio-wrapper mejs-wng">
+                                        <div class="col-xs-11">
+                                            <audio src="{{ page.audio }}" width="100%" height="48" controls="controls" preload="none">
+                                                <p>Your browser doesn't support audio.</p>
+                                            </audio>
+                                        </div>                        
+                                        <div class="col-xs-1">
+                                            <a href="{{ page.audio }}" class="ep-dwn-btn" download><i class="fa fa-cloud-download"></i></a>
+                                        </div>
+                                        
                                     </div><!-- /.mejs-audio-wrapper -->
                                 </div>
                             </div><!-- /.theme-container -->
                     </div>
                 </div>
+                <div class="clearfix"></div>
+
+                
+
+                <!-- For video
+                    <div>
+                        <div class="mejs-wrapper mejs-green">                            
+                            <video id="player2" controls="controls">
+                                <source src="vid.mp4" type="video/mp4" title="mp4">
+                                <p>Your browser doesn't support video.</p>
+                            </video>
+                        </div>
+                    </div>-->
 
                 <!--<div class="mejs-audio-wrapper mejs-green">                        
                     <audio src="{{ page.audio }}" width="100%" height="48" controls="controls"></audio>

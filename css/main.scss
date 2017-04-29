@@ -463,21 +463,12 @@ h2 a, h2 a:hover, h2 a:visited, h2 a:active, h2 a:focus {
     display: block;
 }
 
-/* Media element overrides */
+.ep-dwn-btn {
+    float:right; 
+    margin-top: 15px; 
+    color: grey !important;
 
-// .mejs__container {
-//     position: relative;
-//     background: lightslategrey;
-//     border: 1px solid lightslategrey;
-//     font-family: Helvetica,Arial,serif;
-//     text-align: left;
-//     vertical-align: top;
-//     text-indent: 0;
-//     box-sizing: border-box;
-//     min-width: 250px;
-// }
-
-
-// .mejs__controls:not([style*="display: none"]) {
-//    background: transparent;
-// }
+    &:hover {
+        color: #606060 !important;
+    }
+}
