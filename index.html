@@ -65,7 +65,7 @@ title: Writer & Geek Show
                               {% if post.banner %}
                                 <img src="{{ post.banner }}" alt="" class="img-circle">
                               {% else %}
-                                <img src="http://res.cloudinary.com/vishnupadmanabhan/image/upload/v1493353797/podcast/podcast.png" alt="" class="img-circle">
+                                <img src="http://res.cloudinary.com/writerandgeek/image/upload/v1493400127/podcast_croywq.jpg" alt="" class="img-thumbnail">
                               {% endif %}  
                               <p class="post-meta-date">{{ post.date | date: "%B %d, %Y" }}</p>
                             </div>
@@ -80,11 +80,11 @@ title: Writer & Geek Show
                                     <source src="{{ post.audio }}" type="audio/mpeg">
                                     Your browser does not support the audio element.
                                 </audio>                             -->
-                                <div class="post-body">
+                                <!--<div class="post-body">
                                     {{ post.content | strip_html | truncatewords: 100 }}
                                     <br>
                                     <a href="{{ post.url | prepend: site.baseurl }}" class="more-link">More</a>
-                                </div>                        
+                                </div>                        -->
                             </div>
                         </div>
                       </article>
