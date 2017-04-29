@@ -6,7 +6,8 @@
 @import
         "fonts",
         "bootstrap",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "media"
 ;
 
 body {
@@ -461,3 +462,22 @@ h2 a, h2 a:hover, h2 a:visited, h2 a:active, h2 a:focus {
     margin-top: 15px;
     display: block;
 }
+
+/* Media element overrides */
+
+// .mejs__container {
+//     position: relative;
+//     background: lightslategrey;
+//     border: 1px solid lightslategrey;
+//     font-family: Helvetica,Arial,serif;
+//     text-align: left;
+//     vertical-align: top;
+//     text-indent: 0;
+//     box-sizing: border-box;
+//     min-width: 250px;
+// }
+
+
+// .mejs__controls:not([style*="display: none"]) {
+//    background: transparent;
+// }

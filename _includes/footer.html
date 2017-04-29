@@ -25,6 +25,19 @@
 </footer>
 
 <script src="/js/site.js"></script>
+<script src="/js/media.js"></script>
+
+<script>
+    $('audio').mediaelementplayer ({
+
+    defaultVideoWidth: -1,
+    
+    videoVolume: 'horizontal',
+    // features to show
+    features: ['playpause', 'stop', 'loop','current','progress','duration', 'volume'],
+
+});//end mediaelementplayer
+</script>
 <script>
     $(function () {
         $('[data-toggle="tooltip"]').tooltip()
