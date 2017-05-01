@@ -6,8 +6,7 @@
 @import
         "fonts",
         "bootstrap",
-        "syntax-highlighting",
-        "media"
+        "syntax-highlighting"
 ;
 
 body {
@@ -81,6 +80,10 @@ p code {
     border-bottom: 2px solid lightgreen;
     margin-bottom: 25px;
     padding-bottom: 25px;
+
+    &:last-child {
+        border-bottom: none;
+    }
 }
 
 .post-title {
@@ -471,10 +474,4 @@ h2 a, h2 a:hover, h2 a:visited, h2 a:active, h2 a:focus {
     &:hover {
         color: #606060 !important;
     }    
-}
-
-@media only screen and (max-width : 320px) {
-    .ep-dwn-btn {
-        margin: 0 auto;
-    } 
 }
