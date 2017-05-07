@@ -21,7 +21,7 @@ layout: default
                 <h3>{{ page.summary }}</h3>
                 {% if page.audio %}
                 <audio controls preload="none">
-                    <source src="{{ page.audio }}" type="audio/mpeg">
+                    <source src="http://dts.podtrac.com/redirect.mp3/{{ page.audio | remove:'http://' }}" type="audio/mpeg">
                     Your browser does not support the audio element.
                 </audio>
                 {% endif %}
