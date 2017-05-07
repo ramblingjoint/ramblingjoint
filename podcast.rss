@@ -9,8 +9,8 @@
 		<description>{{ site.description | xml_escape }}</description>
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
-		<managingEditor>{{ site.author }}</managingEditor>
-		<webMaster>{{ site.author }}</webMaster>
+		<managingEditor>{{ site.email }}</managingEditor>
+		<webMaster>{{ site.email }}</webMaster>
 		<copyright>{{ 'now' | date: "%Y" }} - {{ site.title }}</copyright>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
