@@ -12,7 +12,7 @@ title: About
     <div class="col-xs-6 text-center">
         <img class="img-responsive img-thumbnail" src="http://res.cloudinary.com/writerandgeek/image/upload/v1494787545/shankar.jpg">    
         <h3>Shankar</h3>
-        <p class="text-left">A freelance writer by profession, Commerce graduate by education who wanted to be an (soimething) and loves Music, Food, and Writing.</p>
+        <p class="text-left">A freelance writer by profession, Commerce graduate by education who wanted to be an (something) and loves Music, Food, and Writing.</p>
         <a href="https://twitter.com/shanky1405" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
     </div>
 </div>  
