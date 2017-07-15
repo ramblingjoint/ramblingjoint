@@ -11,7 +11,7 @@ explicit: "no"
 block: "no"
 banner: http://res.cloudinary.com/writerandgeek/image/upload/v1493470920/weight.png
 author: "Writer & Geek"
-date:   2017-06-01 11:05:00
+date: 2017-06-01 11:05:00
 categories: Regular
 comments: true
 ---

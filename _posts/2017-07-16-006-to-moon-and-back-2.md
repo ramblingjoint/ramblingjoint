@@ -11,7 +11,7 @@ explicit: "no"
 block: "no"
 banner: http://res.cloudinary.com/writerandgeek/image/upload/v1500095070/moon2.jpg
 author: "Writer & Geek"
-date:   2017-07-16 00:05:00
+date: 2017-07-16 00:05:00
 categories: Regular
 comments: true
 ---
