@@ -17,7 +17,9 @@ comments: true
 ---
 
 ### Human Masterpiece
-The Spacecraft built for Moon missions was one of the greatest engineering marvels of mankind. There machines are few of the most complex machines ever built. Let's take a peek at how it was done.
+The Spacecraft built for Moon missions was one of the greatest engineering marvels of mankind. There machines are few of the most complex machines ever built. But the drive and commitment did not let the man give up on his dreams of setting foot on an alien world.
+
+There are some mind bending facts behind the construction of these machines. One of the most powerful machines ever built to send three men on Moon. Was it as simple as it sounds? Let's find out!
 
 ### Timestamps:
 - **00:11:00**: Intro.
