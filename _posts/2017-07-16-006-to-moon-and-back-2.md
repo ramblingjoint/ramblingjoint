@@ -17,7 +17,16 @@ comments: true
 ---
 
 
-### Mentions:
+### Timestamps:
+- **00:11:00**: Intro.
+- **00:02:20**: The ways of reaching the Moon.
+- **00:02:42**: Direct Ascent.
+- **00:03:25**: Earth Orbit Randezvous.
+- **00:03:51**: Lunar Orbit Randezvous.
+- **00:06:35**: Saturn V launch vehicle.
+- **00:16:15**: Command, Service and Lunar Modules.
+- **00:19:52**: Apollo 11 UFO incident.
+- **00:23:26**: Kennedy Space Center and Houston.
 
 ### Saturn V Launch Vehicle
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mrdanbeaumont/11988319156/in/photolist-tfyZu-bhNw4p-joHwQf-jAnVXd-62EqeT-jgngBS-6AT9iX-4DzCXn-UCSNLe-VoK8ux-8daUZh-9Vx9Me-wqCr64-TRChXP-6GqbDc-7NAauv-5eBLEo-bYTXfC-5Diz4W-UQoUkZ-d6t7yq-a3FBDr-rY7Day-chmEh7-QyJpp8-kYNdq4-8N4QT2-ctR125-ssDiDa-dt3vah-iM5FE1-hdbgXV-dfCjgc-jaUCNn-UQoWEt-qSUvhx-pLRP1r-e3YyGb-TAPUe6-6nycrw-dkPeDw-cmtqfw-4Ba84c-m5JmXg-oEV6j6-dXFF2m-UCSPQZ-oHcM5y-FQF3m-pBGmap" title="Apollo 17 / Saturn 5 rocket, &quot;The last Apollo moon rocket&quot;,  November 21, 1972"><img src="https://farm4.staticflickr.com/3777/11988319156_d64f19ec92_b.jpg" width="812" height="1024" alt="Apollo 17 / Saturn 5 rocket, &quot;The last Apollo moon rocket&quot;,  November 21, 1972"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
