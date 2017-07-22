@@ -53,7 +53,7 @@ The SIV-B stage that houses the LEM from Apollo 7 mission. This mission did not 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/projectapolloarchive/21723747028/in/album-72157658999650280/" title="AS07-3-1541"><img src="https://farm1.staticflickr.com/667/21723747028_abf79716f0_b.jpg" width="979" height="1024" alt="AS07-3-1541"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Apollo Moon mission animation
-This animated mmovie shows the entire process of Moon voyage. Give it a good watch to understand how the spacecraft works.
+This animated movie shows the entire process of Moon voyage. Give it a good watch to understand how the spacecraft works.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VvfTY-tVzI" frameborder="0" allowfullscreen></iframe>
 
