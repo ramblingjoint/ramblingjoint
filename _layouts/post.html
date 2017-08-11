@@ -4,12 +4,33 @@ layout: default
 
 <div class="container-fluid">
     <div class="row">
-        <div class="jumbotron-single text-center">
-            <div class="col-md-8 col-md-offset-2">
-                <p class="post-meta">EP - {{ page.episode }}</p>
-                <h1 class="post-title-single">{{ page.title }}</h1>
-                <!--<h3 class="post-desc-single">{{ page.excerpt }}</h3>-->
-                <p class="post-meta">{{ page.date | date: "%B %d, %Y" }}</p>
+        <div class="jumbotron-single">            
+            <div class="col-md-10 col-md-offset-1">    
+                <div class="col-md-3">
+                    <img src="{{ page.banner }}" alt="{{ page.title }}" class="img-responsive visible-lg visible-md">
+                </div>   
+                 <div class="col-md-9">         
+                    <p class="post-ep-no">EP - {{ page.episode }} published on {{ page.date | date: "%B %d, %Y" }}</p>
+                    <h1 class="post-title-single">{{ page.title }}</h1>
+                    <!--<h3 class="post-desc-single">{{ page.excerpt }}</h3>-->
+                    <!-- <p class="post-ep-date"></p> -->
+
+                    <!-- Audio starts here -->
+                    <h3>{{ page.summary }}</h3>
+                    {% if page.audio %}
+                    <audio class="main-player mejs__player" controls preload="none" width="90%">
+                        <source src="http://dts.podtrac.com/redirect.mp3/{{ page.audio | remove:'http://' }}" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                    <p>
+                        <a href="http://dts.podtrac.com/redirect.mp3/{{ page.audio | remove:'http://' }}" download>
+                            <strong>
+                            Download MP3 ({{ page.length | divided_by: 1000000 | round: 2 }} MB)
+                            </strong>
+                        </a>
+                    </p>
+                    {% endif %}
+                 </div>
             </div>               
         </div>
     </div>
@@ -17,9 +38,9 @@ layout: default
 
 <section class="container-fluid">
     <div class="row">
-        <article class="col-md-6 col-md-offset-3 single-article">
+        <article class="col-md-7 col-md-offset-1 single-article">
             <div class="post-body">
-                <h3>{{ page.summary }}</h3>
+                <!-- <h3>{{ page.summary }}</h3>
                 {% if page.audio %}
                 <audio controls preload="none">
                     <source src="http://dts.podtrac.com/redirect.mp3/{{ page.audio | remove:'http://' }}" type="audio/mpeg">
@@ -30,7 +51,7 @@ layout: default
                     Download MP3 ({{ page.length | divided_by: 1000000 | round: 2 }} MB)
                     </strong>
                 </a>
-                {% endif %}
+                {% endif %} -->
                 {{ content }}
 
                 <hr>
@@ -53,7 +74,7 @@ layout: default
                 {% endif %}
             </div>           
         </article>
-        <div class="col-md-6 col-md-offset-3">
+        <div class="col-md-7 col-md-offset-1">
             {% if page.comments %}
             <div id="disqus_thread"></div>
             {% endif %}
