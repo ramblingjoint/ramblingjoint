@@ -80,7 +80,6 @@ p code {
 }
 
 .single-article {
-    border-bottom: 2px solid lightgreen;
     margin-bottom: 25px;
     padding-bottom: 25px;
 
@@ -303,6 +302,9 @@ audio.main-player, audio.mejs__player {
   display: block;
   width: auto;
   overflow: hidden;
+  border-bottom: 2px solid lightgreen;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .PageNavigation a {
