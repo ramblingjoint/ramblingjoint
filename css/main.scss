@@ -30,10 +30,6 @@ main {
     flex: 1 0 auto;
 }
 
-a, a:hover, a:active, a:focus, button, button:active, button:visited, button:focus {
-    outline: 0;
-}
-
 pre, code, code[class*="language-"],pre[class*="language-"] {
     // font-family: 'Fira Code', monospace;
     border: none;
@@ -441,6 +437,18 @@ li.search-list {
     border-color: #5cb85c;
 }
 
+.btn-blue {
+    color: #1b1b25 !important;
+    background-color: white;
+    border-color: #1b1b25;
+}
+
+.btn-blue:hover {
+    color: white !important;
+    background-color: #1b1b25;
+    border-color: #1b1b25;
+}
+
 .pagination>li>a, .pagination>li>span {
     color: #5cb85c;
 }
@@ -471,6 +479,11 @@ a, a:hover, a:active, a:focus {
 a, a:hover, a:visited, a:active, a:focus {
     color: #5cb85c;
     text-decoration: none;
+}
+
+
+a, a:hover, a:active, a:focus, button, button:active, button:visited, button:focus {
+    outline: 0;
 }
 
 h2 a, h2 a:hover, h2 a:visited, h2 a:active, h2 a:focus {
