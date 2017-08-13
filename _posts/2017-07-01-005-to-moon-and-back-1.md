@@ -18,11 +18,12 @@ comments: true
 
 
 ### Mentions
+Space travel was one of the biggest achievements of humankind. Man has always been an explorer and once he conquered the land and sea, his eyes turned towards the sky.
 
 Vishnu's Instagram post in question:
 ![Vishnu's instagram post](http://res.cloudinary.com/writerandgeek/image/upload/v1498965021/insta_space.jpg)
 
-- [Galileo's Moon dreawings](https://en.wikipedia.org/wiki/Sidereus_Nuncius#Moon){:target="_blank"}
+- [Galileo's Moon drawings](https://en.wikipedia.org/wiki/Sidereus_Nuncius#Moon){:target="_blank"}
 - [Jules Verne's From Earth to Moon](https://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon){:target="_blank"}
 - [Wernher von Braun](https://en.wikipedia.org/wiki/Wernher_von_Braun){:target="_blank"}
 - [Laika](https://en.wikipedia.org/wiki/Laika){:target="_blank"}
