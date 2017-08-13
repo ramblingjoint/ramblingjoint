@@ -16,6 +16,11 @@ categories: Regular
 comments: true
 ---
 
+### Mind Games
+Mass hysteria has gripped many parts of the world in its bizarre way. For some reason, a bunch of people start believing and feeling the same way that makes them act in a peculiar way. This has been happening since ancient history to modern times.
+
+Though most of the times these events are attributed to stress and other external factors, most of the times, there has been no explanation to some of these events. Let us take a look at few of the cases that have happened across the world.
+
 ### Key Takaways
 - **02:27**: The Monkey Man incident - Delhi, India.
 - **09:26**: Ganesha idol drinking milk.
