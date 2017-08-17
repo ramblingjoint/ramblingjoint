@@ -85,4 +85,10 @@ That is a future that we hope for. That is a future we should dream about. Time 
 
 - [Nick Bostrom](https://www.youtube.com/watch?v=MnT1xgZgkpk){:target="blank"}
 
+---
+
+### Media
+Music: **[Free Stock Music](https://www.freestockmusic.com){:target="_blank"}**
+- Rip and Tear
+
 Image: [Pixabay](https://pixabay.com/en/artificial-intelligence-155161/){:target="blank"}
