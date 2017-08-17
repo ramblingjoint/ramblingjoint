@@ -5,8 +5,8 @@ excerpt: "Where does AI lead us? Expansion or destruction?"
 summary: "We discuss the the pros and cons of AI development."
 episode: "008"
 audio: http://traffic.libsyn.com/writerandgeek/WnGEP008.mp3
-duration: "27:15"
-length: "13247735"
+duration: "27:01"
+length: "12974674"
 explicit: "no"
 block: "no"
 banner: http://res.cloudinary.com/writerandgeek/image/upload/v1502453780/ai.jpg
