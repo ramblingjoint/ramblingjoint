@@ -2,7 +2,7 @@
 layout: post
 title:  "AI - evolution or revolution?"
 excerpt: "Where does AI lead us? Expansion or destruction?"
-summary: "We discuss the the pros and cons of AI development."
+summary: "We discuss the pros and cons of AI development."
 episode: "008"
 audio: http://traffic.libsyn.com/writerandgeek/WnGEP008.mp3
 duration: "27:01"
