@@ -46,7 +46,7 @@
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/{{ post.audio | remove:'http://' }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author }}</itunes:author>
 				<itunes:subtitle>{{ post.excerpt | xml_escape }}</itunes:subtitle>
-				<itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+				<itunes:summary>{{ post.content }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
 				<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1493400127/podcast_croywq.jpg" />
