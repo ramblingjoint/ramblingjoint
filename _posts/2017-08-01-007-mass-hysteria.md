@@ -22,14 +22,14 @@ Mass hysteria has gripped many parts of the world in its bizarre way. For some r
 Though most of the times these events are attributed to stress and other external factors, most of the times, there has been no explanation to some of these events. Let us take a look at few of the cases that have happened across the world.
 
 ### Mentions
-- **02:27**: The Monkey Man incident - Delhi, India.
-- **09:26**: Ganesha idol drinking milk.
-- **11:06**: Water fron Jesus's statue.
-- **12:02**: Mumbai Sweetwater Incident.
-- **15:36**: Meowing nuns.
-- **19:05**: The Laughter Epidemic.
-- **22:25**: Morangos com Açúcar.
-- **24:35**: The Dancing Plague.
-- **29:30**: The War of the Worlds.
+- **[02:27](/007-mass-hysteria/#t=00:02:27)**: The Monkey Man incident - Delhi, India.
+- **[09:26](/007-mass-hysteria/#t=00:09:26)**: Ganesha idol drinking milk.
+- **[11:06](/007-mass-hysteria/#t=00:11:06)**: Water fron Jesus's statue.
+- **[12:02](/007-mass-hysteria/#t=00:12:02)**: Mumbai Sweetwater Incident.
+- **[15:36](/007-mass-hysteria/#t=00:15:36)**: Meowing nuns.
+- **[19:05](/007-mass-hysteria/#t=00:19:05)**: The Laughter Epidemic.
+- **[22:25](/007-mass-hysteria/#t=00:22:25)**: Morangos com Açúcar.
+- **[24:32](/007-mass-hysteria/#t=00:24:32)**: The Dancing Plague.
+- **[29:30](/007-mass-hysteria/#t=00:29:30)**: The War of the Worlds.
 
 Image: [Pixabay](https://pixabay.com/en/halloween-ghosts-happy-halloween-1746354/){:target="blank"}
