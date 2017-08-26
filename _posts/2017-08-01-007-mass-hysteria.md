@@ -22,6 +22,8 @@ Mass hysteria has gripped many parts of the world in its bizarre way. For some r
 Though most of the times these events are attributed to stress and other external factors, most of the times, there has been no explanation to some of these events. Let us take a look at few of the cases that have happened across the world.
 
 ### Mentions
+Click on the timestamps below to gp straight to the section in the discussion.
+
 - **[02:27](/007-mass-hysteria/#t=00:02:27)**: The Monkey Man incident - Delhi, India.
 - **[09:26](/007-mass-hysteria/#t=00:09:26)**: Ganesha idol drinking milk.
 - **[11:06](/007-mass-hysteria/#t=00:11:06)**: Water fron Jesus's statue.
