@@ -22,15 +22,14 @@ The Spacecraft built for Moon missions was one of the greatest engineering marve
 There are some mind bending facts behind the construction of these machines. One of the most powerful machines ever built to send three men on Moon. Was it as simple as it sounds? Let's find out!
 
 ### Timestamps:
-- **00:11:00**: Intro.
-- **00:02:20**: The ways of reaching the Moon.
-- **00:02:42**: Direct Ascent.
-- **00:03:25**: Earth Orbit Randezvous.
-- **00:03:51**: Lunar Orbit Randezvous.
-- **00:06:35**: Saturn V launch vehicle.
-- **00:16:15**: Command, Service and Lunar Modules.
-- **00:19:52**: Apollo 11 UFO incident.
-- **00:23:26**: Kennedy Space Center and Houston.
+- **[00:02:20](#t=00:02:20)**: The ways of reaching the Moon.
+- **[00:02:42](#t=00:02:42)**: Direct Ascent.
+- **[00:03:25](#t=00:03:25)**: Earth Orbit Randezvous.
+- **[00:03:51](#t=00:03:51)**: Lunar Orbit Randezvous.
+- **[00:06:35](#t=00:06:35)**: Saturn V launch vehicle.
+- **[00:16:15](#t=00:16:15)**: Command, Service and Lunar Modules.
+- **[00:19:52](#t=00:19:52)**: Apollo 11 UFO incident.
+- **[00:23:26](#t=00:23:26)**: Kennedy Space Center and Houston.
 
 ### Saturn V Launch Vehicle
 This is a Saturn V vehicle sitting on the launch pad ready to take off. The three stages along with Command and Service modules can be seen. The pointed structure or "tower" on top of the Command Module is the Launch Escape System (LES) which would carry the Command Module to a safe distance in case a malfunction develops in the Saturn V during liftoff.
