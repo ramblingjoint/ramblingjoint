@@ -6,7 +6,7 @@ summary: "We discuss the pros and cons of AI development."
 episode: "008"
 audio: http://traffic.libsyn.com/writerandgeek/WnGEP008.mp3
 duration: "27:01"
-length: "12974674"
+length: "9731208"
 explicit: "no"
 block: "no"
 banner: http://res.cloudinary.com/writerandgeek/image/upload/v1502453780/ai.jpg
