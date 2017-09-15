@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "To Moon and Back - Part 3"
-excerpt: "Apollo 11 landed on the moon, What about Apollo 1-10?"
+excerpt: "Apollo 11 landed on the moon. What about Apollo 1-10?"
 summary: "We discuss about the Apollo missions preceding the Apollo 11 mission."
 episode: "011"
 audio: http://traffic.libsyn.com/writerandgeek/WnGEP011.mp3
