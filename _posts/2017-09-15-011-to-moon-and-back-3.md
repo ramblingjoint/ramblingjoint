@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "To Moon and Back - Part 3"
-excerpt: "Can 3D printing be future of business as we know?"
-summary: "We discuss 3D priting and it's practical application in future of lifestyle business."
+excerpt: "Apollo 11 landed on the moon, What about Apollo 1-10?"
+summary: "We discuss about the Apollo missions preceding the Apollo 11 mission."
 episode: "011"
 audio: http://traffic.libsyn.com/writerandgeek/WnGEP011.mp3
 duration: "23:25"
@@ -30,9 +30,9 @@ comments: true
 
 {[15:16](#t=00:15:16)} Apollo 9: A low earth orbit mission, astronauts spent around 10 days orbiting the earth and tested the LEM in earth's orbit. LEM was tested by flying out around 100km away from the CSM.
 
-{[16:56](#t=00:16:56)} Apollo 10: Full dress rehearsal for Apollo 11 mission. Astronauts practiced orbiting the moon, tested the LEM by taking it down 15km above the moon's surface.
+{[16:56](#t=00:16:56)} Apollo 10: Full dress rehearsal for Apollo 11 mission. Astronauts practised orbiting the moon, tested the LEM by taking it down 15km above the moon's surface.
 
-### List of pre Apollo 11 Astronauts
+### List of pre-Apollo 11 Astronauts
 
 - **Apollo 1**: [Gus Grissom](https://en.wikipedia.org/wiki/Gus_Grissom){:target="blank"}, [Ed White](https://en.wikipedia.org/wiki/Edward_Higgins_White){:target="blank"} and [Roger Chaffee](https://en.wikipedia.org/wiki/Roger_B._Chaffee){:target="blank"}.
 - **Apollo 7**: [Walter M Schirra](https://en.wikipedia.org/wiki/Wally_Schirra){:target="blank"}, [Donn F. Eisele](https://en.wikipedia.org/wiki/Donn_F._Eisele){:target="blank"} and [Walter Cunningham](https://en.wikipedia.org/wiki/Walter_Cunningham){:target="blank"}
