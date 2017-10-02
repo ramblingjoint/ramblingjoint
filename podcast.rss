@@ -16,7 +16,7 @@
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url }}</link>
-			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1495557535/logo.jpg</url>
+			<url>http://res.cloudinary.com/writerandgeek/image/upload/v1506947244/wnglogo.png</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
@@ -27,7 +27,7 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1495557535/logo.jpg" />
+		<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1506947244/wnglogo.png" />
 		<itunes:category text="Music" />
 		<itunes:category text="Technology">
 			<itunes:category text="Podcasting" />
@@ -50,7 +50,7 @@
 				<content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
-				<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1493400127/podcast_croywq.jpg" />
+				<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1506947244/wnglogo.png" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
 			</item>
