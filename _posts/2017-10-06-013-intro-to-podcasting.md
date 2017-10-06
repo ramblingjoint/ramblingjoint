@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Into to podcasting"
+title:  "Intro to podcasting"
 excerpt: "How can you start a podcast - our story"
 summary: "We started a podcast on budget. How can you do it?"
 episode: "014"
