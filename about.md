@@ -4,13 +4,13 @@ title: About
 ---
 <div class="row">
     <div class="col-xs-6 text-center">
-        <img class="img-responsive img-thumbnail" src="http://res.cloudinary.com/writerandgeek/image/upload/v1494787505/new.jpg">
+        <img class="img-responsive img-thumbnail" src="http://res.cloudinary.com/writerandgeek/image/upload/v1507285251/DPV.jpg">
         <h3>Vishnu</h3>
         <p class="text-left">An IT program manager by profession, Electronics engineer by education who wanted to be an astronaut and loves music, food, programming and writing.</p>
         <a href="https://twitter.com/neoelemento" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
     </div>
     <div class="col-xs-6 text-center">
-        <img class="img-responsive img-thumbnail" src="http://res.cloudinary.com/writerandgeek/image/upload/v1494787545/shankar.jpg">    
+        <img class="img-responsive img-thumbnail" src="http://res.cloudinary.com/writerandgeek/image/upload/v1507285568/DPS.jpg">    
         <h3>Shankar</h3>
         <p class="text-left">A freelance writer by profession, Commerce graduate by education who wanted to be a musician and loves food and writing.</p>
         <a href="https://twitter.com/ramblingjoint" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
