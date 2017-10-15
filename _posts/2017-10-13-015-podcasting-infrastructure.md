@@ -16,7 +16,7 @@ categories: Regular
 comments: true
 ---
 
-### How we started
+### Podcasting Infrastructure
 We continue our discussion on podcasting and get into the technical aspects of recording and producing a podcast.
 
 {[01:00](#t=00:01:00)} Podcasting is huge in North America. But the similar growth isn't seen in Europe and Asia. This is mostly attributed to the fact that English is the primary language in North America whereas there are a wide variety of languages spoken in Europe and Asia.
