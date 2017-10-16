@@ -507,3 +507,20 @@ h2 a, h2 a:hover, h2 a:visited, h2 a:active, h2 a:focus {
         color: #606060 !important;
     }    
 }
+
+.download_link a {
+    color: lightgreen;
+}
+
+// media js overrides
+.mejs__time-current, .mejs__time-handle-content {
+    background: lightgreen;
+}
+
+.mejs__horizontal-volume-current {
+    background: lightgreen;
+}
+
+.mejs__time {
+    color: white;
+}

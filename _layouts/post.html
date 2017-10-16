@@ -22,7 +22,7 @@ layout: default
                         <source src="http://dts.podtrac.com/redirect.mp3/{{ page.audio | remove:'http://' }}" type="audio/mpeg">
                         Your browser does not support the audio element.
                     </audio>
-                    <p>
+                    <p class="download_link">
                         <a href="http://dts.podtrac.com/redirect.mp3/{{ page.audio | remove:'http://' }}" download>
                             <strong>
                             Download MP3 ({{ page.length | divided_by: 1000000 | round: 2 }} MB)
