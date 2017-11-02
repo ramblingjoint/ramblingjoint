@@ -2,7 +2,7 @@
 layout: post
 title:  "Tools for writing"
 excerpt: "Writing is an art and you need your tools"
-summary: "We discuss about hoe we got into writing and the tools we use"
+summary: "We discuss about how we got into writing and the tools we use"
 episode: "018"
 audio: http://traffic.libsyn.com/writerandgeek/WnGEP018.mp3
 duration: "32:08"
