@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Our musical evolution"
-excerpt: "We discuss the eveolution of our musical taste over the years."
-summary: "We discuss the eveolution of our musical taste over the years."
+excerpt: "We discuss the evolution of our musical taste over the years."
+summary: "We discuss the evolution of our musical taste over the years."
 episode: "017"
 audio: http://traffic.libsyn.com/writerandgeek/WnGEP017.mp3
 duration: "37:49"
