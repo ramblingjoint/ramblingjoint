@@ -9,7 +9,7 @@ duration: "30:32"
 length: "11169566"
 explicit: "no"
 block: "no"
-banner: http://res.cloudinary.com/writerandgeek/image/upload/v1509455625/write.jpg
+banner: http://res.cloudinary.com/writerandgeek/image/upload/v1510373941/food.jpg
 author: "Writer & Geek"
 date:   2017-11-10 11:50:00
 categories: Regular
