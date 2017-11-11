@@ -28,3 +28,4 @@ We love food! Bangalore has some really good restaurants some of which we have h
 - [Sangam Mess](https://www.zomato.com/bangalore/sangam-mess-kammanahalli){:target="blank"}: Kerala Mess. Best low budget non-veg food.
 - [Berry'd Alive](https://www.zomato.com/bangalore/berryd-alive-indiranagar){:target="blank"}: Hand's down the best dessert place in Bangalore.
 
+[Vishnu's article on Strudel](http://neoelemento.com/blog/2017/09/30/inglourious-strudel/){:target="blank"}
