@@ -26,6 +26,6 @@ We love food! Bangalore has some really good restaurants some of which we have h
 - [Fatty Bao](https://www.zomato.com/bangalore/the-fatty-bao-asian-gastro-bar-indiranagar){:target="blank"}: Another asian restaurant. Good food and sushi.
 - [Kitchen on the Table](https://www.zomato.com/bangalore/kitchen-on-table-kalyan-nagar){:target="blank"}.
 - [Sangam Mess](https://www.zomato.com/bangalore/sangam-mess-kammanahalli){:target="blank"}: Kerala Mess. Best low budget non-veg food.
-- [Berry'd Alive](https://www.zomato.com/bangalore/berryd-alive-indiranagar){:target="blank"}: Hand's down the best dessert place in Bangalore.
+- [Berry'd Alive](https://www.zomato.com/bangalore/berryd-alive-indiranagar){:target="blank"}: Hand's down the best dessert place in Bangalore. Their **Salted Caramel Cheesecake** is mind-blowing!
 
 [Vishnu's article on Strudel](http://neoelemento.com/blog/2017/09/30/inglourious-strudel/){:target="blank"}
