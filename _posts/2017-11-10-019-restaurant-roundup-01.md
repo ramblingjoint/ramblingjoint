@@ -16,7 +16,7 @@ categories: Regular
 comments: true
 ---
 ### For the love of food!
-We love food! Bangalore has some really good restaurants some of which we have had the pleasure of checking out. Here are few of our favourite places. Do check them out, for love of food 🤘
+We love food! Bangalore has some really good restaurants some of which we have had the pleasure of checking out. Here are few of our favourite places. Do check them out, for love of food yo 🤘
 
 - [Hole in the Wall](https://www.zomato.com/bangalore/the-hole-in-the-wall-cafe-koramangala-4th-block){:target="blank"}: One of the best breakfast places in Bangalore. English breakfast, burgers, waffles and pancakes. Try **Porky fella breakfast**!
 - [Stoked!](https://www.zomato.com/bangalore/stoked-koramangala-4th-block){:target="blank"}: Pasta and Egg's Benedict worth craving. Awesome cappaccino and pizza's with good music and ambience.
