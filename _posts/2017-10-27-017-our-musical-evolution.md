@@ -16,7 +16,7 @@ categories: Regular
 comments: true
 ---
 
-### What happened to our neanderthal cousins?
+### How did we evolve musically?
 
 This episode is a discussion on the evolution of our musical taste over the years.
 
