@@ -22,7 +22,6 @@ kramdown:
 sass:
     style: compressed
 gems:
-  - jemoji
   - jekyll-paginate
 
 permalink: /:title/
