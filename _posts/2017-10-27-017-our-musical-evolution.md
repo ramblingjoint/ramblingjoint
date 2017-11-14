@@ -18,6 +18,6 @@ comments: true
 
 ### How did we evolve musically?
 
-This episode is a discussion on the evolution of our musical taste over the years.
+This episode is a discussion on the evolution of our musical taste over the years. From BSB to John Mayer!
 
 Image: [Pixabay](https://pixabay.com/en/k7-plastic-magnetic-tape-black-tdk-1336026/){:target="blank"}
