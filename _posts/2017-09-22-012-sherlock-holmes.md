@@ -4,7 +4,7 @@ title:  "One Mr. Sherlock Holmes"
 excerpt: "We ramble about the famous fictional detective"
 summary: "We grew up reading Sherlock Holmes stories, let's discuss that."
 episode: "012"
-audio: http://traffic.libsyn.com/writerandgeek/WnGEP012.mp3
+audio: https://traffic.libsyn.com/writerandgeek/WnGEP012.mp3
 duration: "24:47"
 length: "9092711"
 explicit: "no"

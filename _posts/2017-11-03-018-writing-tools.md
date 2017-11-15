@@ -4,7 +4,7 @@ title:  "Tools for writing"
 excerpt: "Writing is an art and you need your tools"
 summary: "We discuss about how we got into writing and the tools we use"
 episode: "018"
-audio: http://traffic.libsyn.com/writerandgeek/WnGEP018.mp3
+audio: https://traffic.libsyn.com/writerandgeek/WnGEP018.mp3
 duration: "32:08"
 length: "15431227"
 explicit: "no"

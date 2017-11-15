@@ -4,7 +4,7 @@ title:  "Losing weight"
 excerpt: "Many of us want to lose that extra bit of weight, but few are successful."
 summary: "Our discussion today is about losing weight the right way without going through difficult diet plans and exercises that burn yourself out."
 episode: "003"
-audio: http://traffic.libsyn.com/writerandgeek/WnGEP003.mp3
+audio: https://traffic.libsyn.com/writerandgeek/WnGEP003.mp3
 duration: "34:31"
 length: "16568139"
 explicit: "no"

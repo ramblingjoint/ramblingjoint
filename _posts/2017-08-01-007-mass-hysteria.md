@@ -4,7 +4,7 @@ title:  "Mass Hysteria feat. Monkey Man"
 excerpt: "Taking a peek into creepy world of mass hysteria"
 summary: "We discuss the curious cases of mass hysteria from around the world."
 episode: "007"
-audio: http://traffic.libsyn.com/writerandgeek/WnGEP007.mp3
+audio: https://traffic.libsyn.com/writerandgeek/WnGEP007.mp3
 duration: "36:39"
 length: "17762114"
 explicit: "no"

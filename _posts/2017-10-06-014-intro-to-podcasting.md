@@ -4,7 +4,7 @@ title:  "Intro to podcasting"
 excerpt: "How can you start a podcast - our story"
 summary: "We started a podcast on budget. How can you do it?"
 episode: "014"
-audio: http://traffic.libsyn.com/writerandgeek/WnGEP014.mp3
+audio: https://traffic.libsyn.com/writerandgeek/WnGEP014.mp3
 duration: "26:45"
 length: "9811313"
 explicit: "no"
