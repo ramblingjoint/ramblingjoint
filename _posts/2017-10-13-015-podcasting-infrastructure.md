@@ -4,7 +4,7 @@ title:  "Podcasting Infrastructure, Hardware and Software"
 excerpt: "Podcasting story continued. More technical."
 summary: "We continue our discussion on podcasting and get into the technicalities."
 episode: "015"
-audio: http://traffic.libsyn.com/writerandgeek/WnGEP015.mp3
+audio: https://traffic.libsyn.com/writerandgeek/WnGEP015.mp3
 duration: "26:22"
 length: "9675251"
 explicit: "no"

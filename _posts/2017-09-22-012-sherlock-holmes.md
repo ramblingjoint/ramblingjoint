@@ -9,7 +9,7 @@ duration: "24:47"
 length: "9092711"
 explicit: "no"
 block: "no"
-banner: http://res.cloudinary.com/writerandgeek/image/upload/v1503821319/sherlock.jpg
+banner: https://res.cloudinary.com/writerandgeek/image/upload/v1503821319/sherlock.jpg
 author: "Writer & Geek"
 date:   2017-09-22 11:50:00
 categories: Regular

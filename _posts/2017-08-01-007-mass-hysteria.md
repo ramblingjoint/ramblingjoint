@@ -9,7 +9,7 @@ duration: "36:39"
 length: "17762114"
 explicit: "no"
 block: "no"
-banner: http://res.cloudinary.com/writerandgeek/image/upload/v1501437599/hysteria.jpg
+banner: https://res.cloudinary.com/writerandgeek/image/upload/v1501437599/hysteria.jpg
 author: "Writer & Geek"
 date:   2017-08-01 11:50:00
 categories: Regular
