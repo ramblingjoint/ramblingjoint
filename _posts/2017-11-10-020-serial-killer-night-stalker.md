@@ -28,23 +28,23 @@ But Ramirez was someone I had never heard about. His story caught my attention. 
 
 But how did he end up there? What were the reasons which lead him to commit such heinous crimes? Let us dig deep.
 
-///Modus Operandi
+###Modus Operandi
 Modus Operandi
 He did not have a particular motive most of the time. He attacked and killed the men first. Sexually assaulted the women and brutally killed them. One motive was to grab hold of valuables to fuel his substance abuse.
 
-///Family and Childhood
+###Family and Childhood
 Born in El Paso, Texas, on 29 February 1960, he was the youngest in the family of five children. He had two brothers with disabilities and a sister. He had a Catholic upbringing attending church and services on a regular basis. His father was a former policeman and was abusive in the way he treated his children.
 
 His mother worked in a factory. She kept breathing in the harmful fumes produced by the factory, day in and day out. This is attributed to her two children being born with disabilities. Richard was born without any disabilities. He used to protect his brothers from bullying in school. He had a good name and was popular among the girls in school.
 
-///Factors which might have shaped his psychopathic behaviour
+###Factors which might have shaped his psychopathic behaviour
 Abusive father who beat him and his brothers up
 Accidental head injuries during childhood leading to epileptic seizures
 Cousin Miguel who introduced him the gruesome details of the Vietnam war and the crimes the veterans committed
 Substance abuse leading from marijuana to cocaine and heroin
 The Peeping Tom
 
-///Crimes
+###Crimes
 Holiday Inn incident
 10 April, 1984 - First murder. Mei Leung, 9, was found murdered in a hotel basement where Ramirez was staying.
 28 June, 1984 - First murder as The Night Stalker.
