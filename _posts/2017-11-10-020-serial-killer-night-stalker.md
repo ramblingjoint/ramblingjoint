@@ -38,8 +38,14 @@ Born in El Paso, Texas, on 29 February 1960, he was the youngest in the family o
 His mother worked in a factory. She kept breathing in the harmful fumes produced by the factory, day in and day out. This is attributed to her two children being born with disabilities. Richard was born without any disabilities. He used to protect his brothers from bullying in school. He had a good name and was popular among the girls in school.
 
 ///Factors which might have shaped his psychopathic behaviour
-Accidental head injuries during childhood
-Abusive father
-Abusive teacher
-Cousin Miguel
-Substance abuse
+Abusive father who beat him and his brothers up
+Accidental head injuries during childhood leading to epileptic seizures
+Cousin Miguel who introduced him the gruesome details of the Vietnam war and the crimes the veterans committed
+Substance abuse leading from marijuana to cocaine and heroin
+The Peeping Tom
+
+///Crimes
+Holiday Inn incident
+10 April, 1984 - First murder. Mei Leung, 9, was found murdered in a hotel basement where Ramirez was staying.
+28 June, 1984 - First murder as The Night Stalker.
+
