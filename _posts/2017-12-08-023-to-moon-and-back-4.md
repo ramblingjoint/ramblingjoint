@@ -17,6 +17,6 @@ comments: true
 ---
 ### Apollo 11 mission - how much do you know about it?
 
-In this episode we go back To Moon and Back. Specifically, we (Vishnu) talk about the Apollo 11 mission, the one which took Neil Armstrong, Edwin (Buzz) Aldrin and Michael Collins to the moon. 
+In this episode we go back To Moon and Back. Specifically, we (Vishnu) talk about the Apollo 11 mission, the one which took Neil Armstrong, Edwin (Buzz) Aldrin and Michael Collins to the moon. We talk about the lesser known facts about the mission.
 
 Image: [Pixabay](https://pixabay.com/en/moon-landing-lunar-module-eagle-193761/){:target="blank"}
