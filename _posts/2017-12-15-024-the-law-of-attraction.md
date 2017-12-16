@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is the Law of Attraction"
+title:  "What is the Law of Attraction?"
 excerpt: "What is LOA and how exactly does it work?"
 summary: "We talk about how LOA really works, no BS!"
 episode: "024"
