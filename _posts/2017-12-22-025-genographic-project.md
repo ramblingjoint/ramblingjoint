@@ -15,7 +15,7 @@ date:   2017-12-22 11:50:00
 categories: Regular
 comments: true
 ---
-### The Genographic Porject
+### The Genographic Project
 Genographic Project is an initiative by Nat Geo and IBM to trace the mogration of humans from Africa into other regions by studying the DNA samples from across the world. Dr Spencer Wells led this project from 2005 - 2015,
 
 Image: [Pixabay](https://pixabay.com/en/dna-body-strand-molecule-biology-2371858/){:target="blank"}
