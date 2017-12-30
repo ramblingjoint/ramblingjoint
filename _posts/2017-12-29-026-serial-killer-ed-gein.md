@@ -17,3 +17,7 @@ comments: true
 ---
 ### The Real Psycho
 Sir Alfred Hitchcock's Psycho was a movie well ahead of it's time. But more intresting fact is that it was based on a real person - Ed Gien. In today's episode, we look into a life that was lead digging up corpses and murdering people. Be advised, **it ain't pretty**.
+
+Music: [Castles and Dungeons by Free Stock Music](https://www.freestockmusic.com/cinematic-production-music/free-cinematic-production-music-castles-dungeons/){:target="blank"}
+
+Image: [Wikipedia](https://en.wikipedia.org/wiki/Ed_Gein#/media/File:Edgein.jpg){:target="blank"}
