@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Evolution of Languages: Dravidian - Part 1"
-excerpt: "A look into the evolution o languages starting with Dravidian."
+excerpt: "A look into the evolution of languages starting with Dravidian."
 summary: "We talk about Dravidian languages, especially Kannada."
 episode: "028"
 audio: https://traffic.libsyn.com/writerandgeek/WnGEP028.mp3
