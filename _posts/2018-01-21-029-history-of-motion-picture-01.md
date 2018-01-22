@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "History of Motion Pictures: Part 1 feat. Humble Politician Nograj"
+title:  "History of Motion Pictures: Part 1"
 excerpt: "A look into the evolution of motion pictures and photography"
 summary: "We talk about the evolution of motion pictures and photography"
 episode: "029"
