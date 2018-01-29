@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "To Moon and Back - Part 5"
+excerpt: "There were six more missions after Apollo 11."
+summary: "We talk about missions after Apollo 11."
+episode: "030"
+audio: https://traffic.libsyn.com/writerandgeek/WnGEP030.mp3
+duration: "30:43"
+length: "11238994"
+explicit: "no"
+block: "no"
+banner: https://res.cloudinary.com/writerandgeek/image/upload/v1517244301/moon5.jpg
+author: "Writer & Geek"
+date:   2018-01-28 11:50:00
+categories: Regular
+comments: true
+---
+### Post Apollo 11
+
+In this episode we go back To Moon and Back. We talk about the missions that took place after the Apollo 11 voyage.
+
+Image: [Pixabay](https://pixabay.com/en/moon-vehicle-astronaut-space-travel-67521/){:target="blank"}
