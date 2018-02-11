@@ -18,7 +18,7 @@ comments: true
 ### For the love of food!
 We love food! Bangalore has some really good restaurants some of which we have had the pleasure of checking out. Here are few of our favourite places. Do check them out, for love of food yo 🤘
 
-- [The Roastery](https://www.zomato.com/bangalore/the-roastery-kalyan-nagar){:target="blank"}: Amamzing coffee place!
+- [The Roastery](https://www.zomato.com/bangalore/the-roastery-kalyan-nagar){:target="blank"}: Amazing coffee place!
 - [Frozen Bottle](https://www.zomato.com/bangalore/frozen-bottle-indiranagar){:target="blank"}: Awesome milkshakes!
 - [Menchies](https://www.zomato.com/bangalore/menchies-frozen-yogurt-indiranagar){:target="blank"}: Really good frozen yogurt. Appears to be temporarily closed.
 - [Cold Stone](https://www.zomato.com/bangalore/cold-stone-creamery-indiranagar){:target="blank"}: Amazing ice cream mixed over a cold stone. Apparently there are seven outlets in Bangalore.
