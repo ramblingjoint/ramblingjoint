@@ -35,4 +35,6 @@ Music: **[Free Stock Music](https://www.freestockmusic.com){:target="_blank"}**
 - Playing to win
 - Betrayed
 
+Episode 2: [To Moon and Back - Part 2](https://writerandgeek.com/006-to-moon-and-back-2/){:target="blank"}
+
 Image: [Pixabay.com](https://pixabay.com/en/apollo-moon-landing-nasa-usa-148722/){:target="_blank"}
