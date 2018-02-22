@@ -25,7 +25,7 @@ Locations: Seattle and Tacoma (Green River)
 Killing span: 1982 - 1998 (presumed to be as recent as 2001)
 Date of Apprehension: Nov 30, 2001
 
-###Family and Personal Life:
+### Family and Personal Life:
 - Domineering mother towards whom he had lustful feelings
 - Bedwetting episodes leading to low self-esteem
 - Lust and hate towards women
@@ -42,43 +42,43 @@ Second wife: Marcia Lorene Brown (1973-81)
 - This divorce is said to be one reason why Ridgway began murdering
 Third wife: Judith Lorraine Lynch (1988-2002)
 
-###Career:
+### Career:
 - Served in Vietnam for two years
 - Worked at the Kenworth Truck Factory after discharging from the Navy
 
-###Killing Spree:
+### Killing Spree:
 - Gary Ridgway is said to have killed 71 women during the span of 1982-1998.
 - Most of the murders took place between 1982-84 and he is said to have killed many that he lost count.
 - The bodies were dumped in the Green River, giving him the name The Green River Killer.
 - He would also visit the corpse later to have sex with it.
 - He contaminated the body with gum, cigarettes, and other materials to throw off the police.
 
-###The Green River Task Force
+### The Green River Task Force
 - A task force of 25 full-time detectives was set up to investigate the murders.
 - The team included Dave Reichert, Robert Kepper, and John E. Douglas.
 - Ted Bundy, another serial killer, helped in the case to find out the behaviour, psychology, and motivation behind the murders.
 - He suggests the possibility of necrophilia and suggests the police to stake out fresh grave to capture the killer.
 
-###Modus Operandi:
+### Modus Operandi:
 - Ridgway picked up women from Pacific South Highway
 - Lured them using his family man personality and the picture of his son
 - Took them to secluded areas and strangled them to death
 - He used his hand in the beginning but began using ligatures to avoid injuries
 - Most of the murders were committed in the woods, his truck or his room
 
-###Close calls:
+### Close calls:
 - He was arrested in 1982 and 2001 with regards to prostitution
 - One of his victims, Rebecca Gardey escaped from his chokehold
 - Sketches made during the eighties matched Ridgway, but no arrests were made
 - He underwent a polygraph test and passed in 1984
 - His saliva and hair samples were collected in 1987, but the technology back then could not connect him to the murders
 
-###Breakthroughs:
+### Breakthroughs:
 - The saliva and hair samples came to use when DNA technology in the 2000s helped develop a profile of the killer.
 - The DNA profile of Ridgway matched with the evidence found at the crime scenes and victims’.
 - The paint traces found in the ligature and clothing of the victim traced back to Kenworth Truck Factory.
 
-###Notes:
+### Notes:
 - Gary Ridgway stabbed a six-year-old boy when he was 16 just to know how it feels to kill someone.
 
 Image: [Wikipedia](https://en.wikipedia.org/wiki/Gary_Ridgway#/media/File:Gary_Ridgway_Mugshot_11302001.jpg){:target="blank"}
