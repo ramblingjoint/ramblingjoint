@@ -63,12 +63,12 @@ Music: **[Free Stock Music](https://www.freestockmusic.com){:target="_blank"}**
 - Out with the boys
 - Hammerhead
 
-Episode 1: [To Moon and Back - Part 1](https://writerandgeek.com/005-to-moon-and-back-1/){:target="blank"}
+- [To Moon and Back - Part 1](https://writerandgeek.com/005-to-moon-and-back-1/){:target="blank"}
 
-Episode 3: [To Moon and Back - Part 3](https://writerandgeek.com/011-to-moon-and-back-3/){:target="blank"}
+- [To Moon and Back - Part 3](https://writerandgeek.com/011-to-moon-and-back-3/){:target="blank"}
 
-Episode 4: [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
+- [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
 
-Episode 5: [To Moon and Back - Part 5](https://writerandgeek.com/030-to-moon-and-back-5/){:target="blank"}
+- [To Moon and Back - Part 5](https://writerandgeek.com/030-to-moon-and-back-5/){:target="blank"}
 
 Image: [Pixabay.com](https://pixabay.com/en/astronaut-american-flag-salute-1082335/){:target="_blank"}

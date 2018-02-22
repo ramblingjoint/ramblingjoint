@@ -44,12 +44,12 @@ comments: true
 Music: **[Free Stock Music](https://www.freestockmusic.com){:target="_blank"}**
 - Rip and Tear
 
-Episode 1: [To Moon and Back - Part 1](https://writerandgeek.com/005-to-moon-and-back-1/){:target="blank"}
+- [To Moon and Back - Part 1](https://writerandgeek.com/005-to-moon-and-back-1/){:target="blank"}
 
-Episode 2: [To Moon and Back - Part 2](https://writerandgeek.com/006-to-moon-and-back-2/){:target="blank"}
+- [To Moon and Back - Part 2](https://writerandgeek.com/006-to-moon-and-back-2/){:target="blank"}
 
-Episode 4: [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
+- [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
 
-Episode 5: [To Moon and Back - Part 5](https://writerandgeek.com/030-to-moon-and-back-5/){:target="blank"}
+- [To Moon and Back - Part 5](https://writerandgeek.com/030-to-moon-and-back-5/){:target="blank"}
 
 Image: [Pixabay](https://pixabay.com/en/moon-satellite-space-capsule-lander-1372866/){:target="blank"}
