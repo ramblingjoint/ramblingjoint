@@ -26,7 +26,7 @@ This is part of a series of episodes on NASA's Mission to the Moon.
 
 - [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
 
-- [To Moon and Back - Part 5](https://writerandgeek.com/030-to-moon-and-back-5/){:target="blank"}
+- To Moon and Back - Part 5
 
 ### Post Apollo 11
 
