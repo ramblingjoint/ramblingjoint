@@ -15,6 +15,16 @@ date:   2017-09-15 11:50:00
 categories: Regular
 comments: true
 ---
+### Episodes
+
+This is part of a series of episodes on NASA's Mission to the Moon.
+- [To Moon and Back - Part 1](https://writerandgeek.com/005-to-moon-and-back-1/){:target="blank"}
+
+- [To Moon and Back - Part 2](https://writerandgeek.com/006-to-moon-and-back-2/){:target="blank"}
+
+- [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
+
+- [To Moon and Back - Part 5](https://writerandgeek.com/030-to-moon-and-back-5/){:target="blank"}
 
 ### There were many
 {[01:30](#t=00:01:30)} There are missions that happened before Apollo 11. All these missions had mission objectives that were testing ground for the Apollo 11.
@@ -43,14 +53,5 @@ comments: true
 #### Media
 Music: **[Free Stock Music](https://www.freestockmusic.com){:target="_blank"}**
 - Rip and Tear
-
-### Episodes
-- [To Moon and Back - Part 1](https://writerandgeek.com/005-to-moon-and-back-1/){:target="blank"}
-
-- [To Moon and Back - Part 2](https://writerandgeek.com/006-to-moon-and-back-2/){:target="blank"}
-
-- [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
-
-- [To Moon and Back - Part 5](https://writerandgeek.com/030-to-moon-and-back-5/){:target="blank"}
 
 Image: [Pixabay](https://pixabay.com/en/moon-satellite-space-capsule-lander-1372866/){:target="blank"}

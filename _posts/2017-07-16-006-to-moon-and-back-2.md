@@ -15,6 +15,16 @@ date: 2017-07-16 00:05:00
 categories: Regular
 comments: true
 ---
+### Episodes
+
+This is part of a series of episodes on NASA's Mission to the Moon.
+- [To Moon and Back - Part 1](https://writerandgeek.com/005-to-moon-and-back-1/){:target="blank"}
+
+- [To Moon and Back - Part 3](https://writerandgeek.com/011-to-moon-and-back-3/){:target="blank"}
+
+- [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
+
+- [To Moon and Back - Part 5](https://writerandgeek.com/030-to-moon-and-back-5/){:target="blank"}
 
 ### Human Masterpiece
 The Spacecraft built for Moon missions was one of the greatest engineering marvels of mankind. There machines are few of the most complex machines ever built. But the drive and commitment did not let the man give up on his dreams of setting foot on an alien world.
@@ -62,14 +72,5 @@ This animated movie shows the entire process of Moon voyage. Give it a good watc
 Music: **[Free Stock Music](https://www.freestockmusic.com){:target="_blank"}**
 - Out with the boys
 - Hammerhead
-
-### Episodes
-- [To Moon and Back - Part 1](https://writerandgeek.com/005-to-moon-and-back-1/){:target="blank"}
-
-- [To Moon and Back - Part 3](https://writerandgeek.com/011-to-moon-and-back-3/){:target="blank"}
-
-- [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
-
-- [To Moon and Back - Part 5](https://writerandgeek.com/030-to-moon-and-back-5/){:target="blank"}
 
 Image: [Pixabay.com](https://pixabay.com/en/astronaut-american-flag-salute-1082335/){:target="_blank"}

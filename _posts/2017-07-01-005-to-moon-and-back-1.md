@@ -15,7 +15,16 @@ date: 2017-07-01 11:05:00
 categories: Regular
 comments: true
 ---
+### Episodes
 
+This is part of a series of episodes on NASA's Mission to the Moon.
+- [To Moon and Back - Part 2](https://writerandgeek.com/006-to-moon-and-back-2/){:target="blank"}
+
+- [To Moon and Back - Part 3](https://writerandgeek.com/011-to-moon-and-back-3/){:target="blank"}
+
+- [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
+
+- [To Moon and Back - Part 5](https://writerandgeek.com/030-to-moon-and-back-5/){:target="blank"}
 
 ### Mentions
 Space travel was one of the biggest achievements of humankind. Man has always been an explorer and once he conquered the land and sea, his eyes turned towards the sky.
@@ -34,14 +43,5 @@ Music: **[Free Stock Music](https://www.freestockmusic.com){:target="_blank"}**
 - The Strategy
 - Playing to win
 - Betrayed
-
-### Episodes
-- [To Moon and Back - Part 2](https://writerandgeek.com/006-to-moon-and-back-2/){:target="blank"}
-
-- [To Moon and Back - Part 3](https://writerandgeek.com/011-to-moon-and-back-3/){:target="blank"}
-
-- [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
-
-- [To Moon and Back - Part 5](https://writerandgeek.com/030-to-moon-and-back-5/){:target="blank"}
 
 Image: [Pixabay.com](https://pixabay.com/en/apollo-moon-landing-nasa-usa-148722/){:target="_blank"}
