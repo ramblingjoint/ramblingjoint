@@ -20,6 +20,8 @@ comments: true
 This is part of a series of episodes on NASA's Mission to the Moon.
 - [To Moon and Back - Part 1](https://writerandgeek.com/005-to-moon-and-back-1/){:target="blank"}
 
+- [To Moon and Back - Part 2](https://writerandgeek.com/006-to-moon-and-back-2/){:target="blank"}
+
 - [To Moon and Back - Part 3](https://writerandgeek.com/011-to-moon-and-back-3/){:target="blank"}
 
 - [To Moon and Back - Part 4](https://writerandgeek.com/023-to-moon-and-back-4/){:target="blank"}
