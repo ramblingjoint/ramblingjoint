@@ -18,12 +18,12 @@ comments: true
 ### The Green River Killer
 The Green River Killer terrorized the state of Washington in the 80's and 90's. This is a story of a man who was well hidden within the society in plain sight. As always, be advised, **it ain't pretty**.
 
-Born: Feb 18, 1949, Salt Lake City, Utah
-Crime: 49 convicted murders
-Targets: Sex workers, underage runaway, vulnerable women
-Locations: Seattle and Tacoma (Green River)
-Killing span: 1982 - 1998 (presumed to be as recent as 2001)
-Date of Apprehension: Nov 30, 2001
+- Born: Feb 18, 1949, Salt Lake City, Utah
+- Crime: 49 convicted murders
+- Targets: Sex workers, underage runaway, vulnerable women
+- Locations: Seattle and Tacoma (Green River)
+- Killing span: 1982 - 1998 (presumed to be as recent as 2001)
+- Date of Apprehension: Nov 30, 2001
 
 ### Family and Personal Life:
 - Domineering mother towards whom he had lustful feelings
