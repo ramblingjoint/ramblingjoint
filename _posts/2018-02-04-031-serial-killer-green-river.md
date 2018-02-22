@@ -31,16 +31,19 @@ The Green River Killer terrorized the state of Washington in the 80's and 90's. 
 - Lust and hate towards women
 - Low IQ (in the eighties). Below average student
 - Married thrice
-- First wife: Claudia Kraig Barrows (1970-72)
+
+First wife: Claudia Kraig Barrows (1970-72)
 - Highschool sweetheart
 - Cheated on him while he was in Vietnam
 - Divorced in 1972
-- Second wife: Marcia Lorene Brown (1973-81)
+
+Second wife: Marcia Lorene Brown (1973-81)
 - Ridgway became extremely religious
 - Birth of son, Matthew, resulted in a change in the relationship.
 - Ridgway became abusive and Marcia filed for divorce
 - This divorce is said to be one reason why Ridgway began murdering
-- Third wife: Judith Lorraine Lynch (1988-2002)
+
+Third wife: Judith Lorraine Lynch (1988-2002)
 
 ### Career:
 - Served in Vietnam for two years
