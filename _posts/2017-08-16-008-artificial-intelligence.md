@@ -4,7 +4,7 @@ title:  "AI - evolution or revolution?"
 excerpt: "Where does AI lead us? Expansion or destruction?"
 summary: "We discuss the pros and cons of AI development."
 episode: "008"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP008.mp3
+audio: https://audio.simplecast.com/654fd3a1.mp3
 duration: "27:01"
 length: "9731208"
 explicit: "no"

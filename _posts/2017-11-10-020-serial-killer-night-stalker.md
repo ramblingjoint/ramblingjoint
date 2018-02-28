@@ -4,7 +4,7 @@ title:  "Serial Killer Files: The Night Stalker"
 excerpt: "Richard Ramirez was a serial killer who terrorized LA in the 80's"
 summary: "We talk about Richard Ramirez, The Night Stalker"
 episode: "020"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP020.mp3
+audio: https://audio.simplecast.com/f3526a73.mp3
 duration: "29:55"
 length: "10951269"
 explicit: "no"

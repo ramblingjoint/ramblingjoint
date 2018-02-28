@@ -4,7 +4,7 @@ title:  "History of the Toothbrush"
 excerpt: "A look into the history of the toothbrush."
 summary: "We talk about our little friend called the toothbrush"
 episode: "027"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP027.mp3
+audio: https://audio.simplecast.com/f39f27e9.mp3
 duration: "25:25"
 length: "9331233"
 explicit: "no"

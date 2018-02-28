@@ -4,7 +4,7 @@ title:  "Serial Killer Files: Ed Gein - The Real Psycho"
 excerpt: "Ed Gein was a killer who inpired many dark movie characters"
 summary: "We talk about Ed Gein, man behind Psycho"
 episode: "026"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP026.mp3
+audio: https://audio.simplecast.com/25e25018.mp3
 duration: "27:06"
 length: "9936862"
 explicit: "no"

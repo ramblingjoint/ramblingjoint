@@ -4,7 +4,7 @@ title:  "To Moon and Back - Part 4"
 excerpt: "Apollo 11 mission - how much do you know about it?"
 summary: "We talk about lesser known facts of Apollo 11 mission."
 episode: "023"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP023.mp3
+audio: https://audio.simplecast.com/c185dabb.mp3
 duration: "24:21"
 length: "8943927"
 explicit: "no"

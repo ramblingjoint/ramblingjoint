@@ -4,7 +4,7 @@ title:  "Evolution of Languages: Dravidian - Part 1"
 excerpt: "A look into the evolution of languages starting with Dravidian."
 summary: "We talk about Dravidian languages, especially Kannada."
 episode: "028"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP028.mp3
+audio: https://audio.simplecast.com/f0938853.mp3
 duration: "26:42"
 length: "9789869"
 explicit: "no"

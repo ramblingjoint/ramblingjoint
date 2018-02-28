@@ -4,7 +4,7 @@ title:  "Serial Killer Files: The Green River Killer"
 excerpt: "The story of the Green River Killer - Gary Ridgeway."
 summary: "We talk about the Green River Killer."
 episode: "031"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP031.mp3
+audio: https://audio.simplecast.com/b8d95d17.mp3
 duration: "31:59"
 length: "11697179"
 explicit: "no"

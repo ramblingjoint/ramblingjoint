@@ -4,7 +4,7 @@ title:  "To Moon and Back - Part 5"
 excerpt: "There were six more missions after Apollo 11."
 summary: "We talk about missions after Apollo 11."
 episode: "030"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP030.mp3
+audio: https://audio.simplecast.com/dc78da42.mp3
 duration: "30:43"
 length: "11238994"
 explicit: "no"

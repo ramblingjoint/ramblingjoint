@@ -4,7 +4,7 @@ title:  "Freelancing and Startups"
 excerpt: "What does it take to be a freelancer or to work in a startup."
 summary: "We talk about our experiences in freelancing and startup."
 episode: "022"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP022.mp3
+audio: https://audio.simplecast.com/9e603b2e.mp3
 duration: "30:23"
 length: "10938844"
 explicit: "no"

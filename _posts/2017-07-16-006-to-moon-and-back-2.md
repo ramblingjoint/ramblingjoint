@@ -4,7 +4,7 @@ title:  "To Moon and Back - Part 2"
 excerpt: "More about Saturn V launch vehicle and Apollo spacecraft"
 summary: "We discuss in depth about the Apollo spacecraft and Saturn V."
 episode: "006"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP006.mp3
+audio: https://audio.simplecast.com/9cff14c6.mp3
 duration: "28:04"
 length: "13642894"
 explicit: "no"

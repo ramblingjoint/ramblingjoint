@@ -4,7 +4,7 @@ title:  "History of Motion Pictures: Part 1"
 excerpt: "A look into the evolution of motion pictures and photography"
 summary: "We talk about the evolution of motion pictures and photography"
 episode: "029"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP029.mp3
+audio: https://audio.simplecast.com/1b82a9b9.mp3
 duration: "24:59"
 length: "8998039"
 explicit: "no"

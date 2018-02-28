@@ -4,7 +4,7 @@ title:  "What is the Law of Attraction?"
 excerpt: "What is LOA and how exactly does it work?"
 summary: "We talk about how LOA really works, no BS!"
 episode: "024"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP024.mp3
+audio: https://audio.simplecast.com/5146a584.mp3
 duration: "28:48"
 length: "10551266"
 explicit: "no"

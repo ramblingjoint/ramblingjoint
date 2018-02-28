@@ -4,7 +4,7 @@ title:  "Our musical evolution"
 excerpt: "We discuss the evolution of our musical taste over the years."
 summary: "We discuss the evolution of our musical taste over the years."
 episode: "017"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP017.mp3
+audio: https://audio.simplecast.com/f055dc99.mp3
 duration: "37:49"
 length: "13797066"
 explicit: "no"

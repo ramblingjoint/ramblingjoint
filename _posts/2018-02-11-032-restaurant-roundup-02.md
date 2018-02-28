@@ -4,7 +4,7 @@ title:  "Restaurant Roundup - 02"
 excerpt: "We ramble about the places we love to eat"
 summary: "We are foodies and here are few places we love or hate"
 episode: "032"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP032.mp3
+audio: https://audio.simplecast.com/ee8a2f2f.mp3
 duration: "28:37"
 length: "10482911"
 explicit: "no"

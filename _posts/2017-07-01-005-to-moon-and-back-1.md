@@ -4,7 +4,7 @@ title:  "To Moon and Back - Part 1"
 excerpt: "History of Moon landings and the events surrounding it."
 summary: "We discuss the events that eventually lead to the humans walking on Moon."
 episode: "005"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP005.mp3
+audio: https://audio.simplecast.com/0a390c68.mp3
 duration: "31:46"
 length: "15417753"
 explicit: "no"

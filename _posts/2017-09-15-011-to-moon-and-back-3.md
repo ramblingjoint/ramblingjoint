@@ -4,7 +4,7 @@ title:  "To Moon and Back - Part 3"
 excerpt: "Apollo 11 landed on the moon. What about Apollo 1-10?"
 summary: "We discuss about the Apollo missions preceding the Apollo 11 mission."
 episode: "011"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP011.mp3
+audio: https://audio.simplecast.com/7b27b435.mp3
 duration: "23:25"
 length: "8598346"
 explicit: "no"

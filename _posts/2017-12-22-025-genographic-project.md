@@ -4,7 +4,7 @@ title:  "The Genographic Project (Human Migration)"
 excerpt: "Humans originated in Africa, how did we spread all over?"
 summary: "We talk about how human beings moved out of Africa into other parts of the world"
 episode: "025"
-audio: https://traffic.libsyn.com/writerandgeek/WnGEP025.mp3
+audio: https://audio.simplecast.com/497bd236.mp3
 duration: "25:56"
 length: "9519033"
 explicit: "no"
