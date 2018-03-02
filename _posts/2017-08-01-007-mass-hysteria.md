@@ -26,7 +26,7 @@ Click on the timestamps below to jump straight to the section being discussed.
 
 - **[02:27](#t=00:02:27)**: The Monkey Man incident - Delhi, India.
 - **[09:26](#t=00:09:26)**: Ganesha idol drinking milk.
-- **[11:06](#t=00:11:06)**: Water fron Jesus's statue.
+- **[11:06](#t=00:11:06)**: Water from Jesus's statue.
 - **[12:02](#t=00:12:02)**: Mumbai Sweetwater Incident.
 - **[15:36](#t=00:15:36)**: Meowing nuns.
 - **[19:05](#t=00:19:05)**: The Laughter Epidemic.
