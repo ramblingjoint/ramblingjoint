@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Serial Killer Files: The Night Stalker"
+title:  "Serial Killer Files Part 1: The Night Stalker"
 excerpt: "Richard Ramirez was a serial killer who terrorized LA in the 80's"
 summary: "We talk about Richard Ramirez, The Night Stalker"
 episode: "020"
@@ -15,6 +15,13 @@ date:   2017-11-17 11:50:00
 categories: Regular
 comments: true
 ---
+This is part of a series of episodes on Serial Killer Files.
+- Serial Killer Files Part 1: The Night Stalker
+
+- [Serial Killer Files Part 2: Ed Gein - The Real Psycho](https://writerandgeek.com/026-serial-killer-ed-gein/){:target="blank"}
+
+- [Serial Killer Files Part 3: The Green River Killer](https://writerandgeek.com/031-serial-killer-green-river/){:target="blank"}
+
 ### The Night Stalker
 Richard Ramirez was a serial killer nicknamed _The Night Stalker_ who terrorized LA area in the 1980s. He was convicted and sentenced to death for 13 murders, 11 sexual assaults, 14 burglaries and 5 attempted murders.
 

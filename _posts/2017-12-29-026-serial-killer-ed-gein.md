@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Serial Killer Files: Ed Gein - The Real Psycho"
+title:  "Serial Killer Files Part 2: Ed Gein - The Real Psycho"
 excerpt: "Ed Gein was a killer who inpired many dark movie characters"
 summary: "We talk about Ed Gein, man behind Psycho"
 episode: "026"
@@ -15,6 +15,13 @@ date:   2017-12-29 11:50:00
 categories: Regular
 comments: true
 ---
+This is part of a series of episodes on Serial Killer Files.
+- [Serial Killer Files Part 1: The Night Stalker](https://writerandgeek.com/020-serial-killer-night-stalker/){:target="blank"}
+
+- Serial Killer Files Part 2: Ed Gein - The Real Psycho
+
+- [Serial Killer Files Part 3: The Green River Killer](https://writerandgeek.com/031-serial-killer-green-river/){:target="blank"}
+
 ### The Real Psycho
 Sir Alfred Hitchcock's Psycho was a movie well ahead of it's time. But more intresting fact is that it was based on a real person - Ed Gien. In today's episode, we look into a life that was lead digging up corpses and murdering people. Be advised, **it ain't pretty**.
 

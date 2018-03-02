@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Serial Killer Files: The Green River Killer"
+title:  "Serial Killer Files Part 3: The Green River Killer"
 excerpt: "The story of the Green River Killer - Gary Ridgeway."
 summary: "We talk about the Green River Killer."
 episode: "031"
@@ -15,6 +15,13 @@ date:   2018-02-04 11:50:00
 categories: Regular
 comments: true
 ---
+This is part of a series of episodes on Serial Killer Files.
+- [Serial Killer Files Part 1: The Night Stalker](https://writerandgeek.com/020-serial-killer-night-stalker/){:target="blank"}
+
+- [Serial Killer Files Part 2: Ed Gein - The Real Psycho](https://writerandgeek.com/026-serial-killer-ed-gein/){:target="blank"}
+
+- Serial Killer Files Part 3: The Green River Killer
+
 ### The Green River Killer
 The Green River Killer terrorized the state of Washington in the 80's and 90's. This is a story of a man who was well hidden within the society in plain sight. As always, be advised, **it ain't pretty**.
 
