@@ -16,7 +16,6 @@ categories: Regular
 comments: true
 ---
 ###Episodes
-
 This is part of a series of episodes on Serial Killer Files.
 - Serial Killer Files Part 1: The Night Stalker
 
