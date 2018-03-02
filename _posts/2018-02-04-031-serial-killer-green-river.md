@@ -16,7 +16,8 @@ categories: Regular
 comments: true
 ---
 ###Episodes
-This is part of a series of episodes on Serial Killer Files.
+
+This is part of a series of episodes on Serial Killer Files. 
 - [Serial Killer Files Part 1: The Night Stalker](https://writerandgeek.com/020-serial-killer-night-stalker/){:target="blank"}
 
 - [Serial Killer Files Part 2: Ed Gein - The Real Psycho](https://writerandgeek.com/026-serial-killer-ed-gein/){:target="blank"}
