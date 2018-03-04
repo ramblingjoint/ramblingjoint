@@ -4,7 +4,7 @@ title:  "Life as a comic with Rupen Paul"
 excerpt: "In this episode we speak to Rupen Paul about the being a standup comedian"
 summary: "An interview with a good friend and Bangalore's up and coming standup comedian Rupen Paul"
 episode: "034"
-audio: https://audio.simplecast.com/2bc6ba6f.mp3
+audio: https://audio.simplecast.com/9ac8cf1c.mp3
 duration: "01:06:27"
 length: "48025841"
 explicit: "no"
