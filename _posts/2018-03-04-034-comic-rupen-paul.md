@@ -39,6 +39,6 @@ Click on the timestamps below to jump straight to the section being discussed.
 - **[58:21](#t=00:58:21)**: Convincing parents, future plans
 - **[59:56](#t=00:59:56)**: Rupen's standup influences
 - **[01:01:32](#t=01:01:32)**: Rupen's upcoming gig on March 24th, Rangoli Arts Centre. Tickets up on BookMyShow
-- **[01:03:14](#t=01:03:14)**: Rupen's new podcast
+- **[01:03:14](#t=01:03:14)**: Rupen's new podcast - Right Room Podcast
 
 [Pixabay](https://pixabay.com/en/submarine-boat-sea-ocean-water-168884/){:target="blank"}
