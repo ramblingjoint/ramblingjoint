@@ -42,4 +42,4 @@ Click on the timestamps below to jump straight to the section being discussed.
 - **[01:01:32](#t=01:01:32)**: Next gig on March 24th, Rangoli Arts Centre. Tickets up on BookMyShow
 - **[01:03:14](#t=01:03:14)**: A little bit about Rupen's upcoming podcast - Right Room Podcast
 
-[Pixabay](https://pixabay.com/en/submarine-boat-sea-ocean-water-168884/){:target="blank"}
+[Facebook](https://www.facebook.com/photo.php?fbid=10154921701085351&set=t.100001647223728&type=3&theater){:target="blank"}
