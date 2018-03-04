@@ -17,7 +17,8 @@ comments: true
 ---
 ## Interview with a comic: Rupen Paul
 ### Note from Shankar
-Music was the reason why I acquainted with Rupen back in 2010 at Christ University. We were part of two college bands namely Zilch and Raaga. The acquaintance grew into friendship over the course of our college life, though our musical dreams died. :stuck_out_tongue_closed_eyes: 	
+Music was the reason why I acquainted with Rupen back in 2010 at Christ University. We were part of two college bands namely Zilch and Raaga. The acquaintance grew into friendship over the course of our college life, though our musical dreams died. :stuck_out_tongue_closed_eyes:
+	
 He is an aspiring stand up comedian who is sure to have his own Netflix special in the near future. So, tune in and get to know about the journey of one of the funniest comic Bangalore has ever seen.
 
 ### Mentions
