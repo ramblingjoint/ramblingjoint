@@ -38,7 +38,7 @@ Click on the timestamps below to jump straight to the section being discussed.
 - **[53:23](#t=00:53:23)**: Difference between a good show and a bad show. Difference between standup and music. And another bad experience.
 - **[58:21](#t=00:58:21)**: Convincing parents, future plans
 - **[59:56](#t=00:59:56)**: Rupen's standup influences
-- **[01:01:32](#t=01:01:32)**: Rupen's upcoming gig on March 24th, Rangoli Arts Centre. Tickets up on BookMy Show
+- **[01:01:32](#t=01:01:32)**: Rupen's upcoming gig on March 24th, Rangoli Arts Centre. Tickets up on BookMyShow
 - **[01:03:14](#t=01:03:14)**: Rupen's new podcast
 
 [Pixabay](https://pixabay.com/en/submarine-boat-sea-ocean-water-168884/){:target="blank"}
