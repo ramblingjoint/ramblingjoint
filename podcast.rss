@@ -41,7 +41,7 @@
 				<title>{{ post.episode }} - {{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<description>{{ post.excerpt | xml_escape }}</description>
+				<description>{{ post.summary | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 				<enclosure url="{{ post.audio }}" length="{{ post.length }}" type="audio/x-m4a"/>
 				<itunes:author>{{ site.author }}</itunes:author>
