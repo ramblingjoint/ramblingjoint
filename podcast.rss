@@ -27,7 +27,7 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg" />
+		<itunes:image href="https://res.cloudinary.com/writerandgeek/image/upload/v1520858727/RamblingJoint2.png" />
 		<itunes:category text="Music" />
 		<itunes:category text="Technology">
 			<itunes:category text="Podcasting" />
@@ -50,7 +50,7 @@
 				<content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
-				<itunes:image href="http://res.cloudinary.com/writerandgeek/image/upload/v1506998325/wnglogo.jpg" />
+				<itunes:image href="https://res.cloudinary.com/writerandgeek/image/upload/v1520858727/RamblingJoint2.png" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
 			</item>
