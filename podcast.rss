@@ -43,7 +43,7 @@
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.excerpt | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-				<enclosure url="http://dts.podtrac.com/redirect.mp3/{{ post.audio | remove:'http://' }}" length="{{ post.length }}" type="audio/mp3"/>
+				<enclosure url="{{ post.audio }}" length="{{ post.length }}" type="audio/x-m4a"/>
 				<itunes:author>{{ site.author }}</itunes:author>
 				<itunes:subtitle>{{ post.excerpt | xml_escape }}</itunes:subtitle>
 				<itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
