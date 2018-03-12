@@ -18,4 +18,4 @@ comments: true
 # Death
 We dwelve into our idea of death
 
-[Pixabay](https://pixabay.com/en/ball-cricket-game-sports-2502587/){:target="blank"}
+<!-- [Pixabay](https://pixabay.com/en/ball-cricket-game-sports-2502587/){:target="blank"} -->
