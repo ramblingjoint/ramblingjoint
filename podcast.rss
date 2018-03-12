@@ -28,7 +28,7 @@
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
 		<itunes:image href="https://res.cloudinary.com/writerandgeek/image/upload/v1520858727/RamblingJoint2.png" />
-		<itunes:category text="Music" />
+		<itunes:category text="Society &amp; Culture" />
 		<itunes:category text="Technology">
 			<itunes:category text="Podcasting" />
 		</itunes:category>
